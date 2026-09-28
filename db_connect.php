@@ -2,7 +2,7 @@
 $conn = new mysqli(
     "localhost",
     "root",
-    "@Purva3551",
+    "PASSWORD",
     "afterlife_system"
 );
 
